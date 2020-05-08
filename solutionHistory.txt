@@ -1,0 +1,24 @@
+This input (ARIM) has a length of: 4
+We get the factorial of this number which is: 24.0
+Since there are no repetitions,
+this would be your number of permutations.
+
+
+This input (TORR) has a length of: 4
+We get the factorial of this number which is: 24.0
+Since your input has repetitions,
+ we have to get the factorial of the frequency of each characters.
+
+Character T repeats 1 time(s).
+the factorial is: 1.0
+Character O repeats 1 time(s).
+the factorial is: 1.0
+Character R repeats 2 time(s).
+the factorial is: 2.0
+
+We then take the product
+of the factorial of each character's frequency (2.0)
+and divide it to the input length's factorial (24.0).
+The permutation of your input is then: 12.0
+
+
